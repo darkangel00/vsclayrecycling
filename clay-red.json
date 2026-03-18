@@ -1,0 +1,202 @@
+[
+	{
+		code: "clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "waterportion", litres: 5, consumelitres: 5 },
+			{ type: "item", code: "bowl-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "clay-red", stackSize: 1 } 
+	},
+	{
+		code: "clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "waterportion", litres: 5, consumelitres: 5 },
+			{ type: "block", code: "pot-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "clay-red", stackSize: 4 } 
+	}
+	/*
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "crucible-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "crock-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "flowerpot-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 4 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "jug-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 5 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "clayplanter-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 18 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 1.25, consumelitres: 1.25 },
+			{ "type": "item", "code": "shingle-raw-red", "quantity": 3 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 1 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 20, consumelitres: 20 },
+			{ "type": "block", "code": "storagevessel-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 35 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "wateringcan-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 10 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 15, consumelitres: 15 },
+			{ "type": "block", "code": "toolmold-red-raw-anvil", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 28 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-axe", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-blade-falx", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-hammer", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "toolmold-red-raw-helvehammer", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 6 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-hoe", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-lamellae", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-pickaxe", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-prospectingpick", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 13 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
+			{ "type": "block", "code": "toolmold-red-raw-shovel", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "ingotmold-red-raw", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
+	},
+	{
+		"code": "clay-red",
+		"sealHours": 8,
+		"ingredients": [
+			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
+			{ "type": "block", "code": "rawbrick-red", "quantity": 1 }
+		],
+		"output": { "type": "item", "code": "clay-red", "stackSize": 4 } 
+	}
+	*/
+]

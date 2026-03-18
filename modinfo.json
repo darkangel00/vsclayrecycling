@@ -1,0 +1,8 @@
+{
+  "type": "content",
+  "modid": "clayrecycling",
+  "name": "Clay Recycling",
+  "authors": ["DrWhoPrincess"],
+  "description": "A way to turn unfired clayforms back into usable wet clay.",
+  "version": "1.0.0"
+}
