@@ -1,202 +1,200 @@
 [
 	{
-		code: "clay-red",
+		code: "game:clay-red",
 		sealHours: 8,
 		ingredients: [
-			{ type: "item", code: "waterportion", litres: 5, consumelitres: 5 },
-			{ type: "item", code: "bowl-red-raw", quantity: 1 }
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:bowl-red-raw", quantity: 1 }
 		],
-		output: { type: "item", code: "clay-red", stackSize: 1 } 
+		output: { type: "item", code: "game:clay-red", stackSize: 1 }
 	},
 	{
-		code: "clay-red",
+		code: "game:clay-red",
 		sealHours: 8,
 		ingredients: [
-			{ type: "item", code: "waterportion", litres: 5, consumelitres: 5 },
-			{ type: "block", code: "pot-red-raw", quantity: 1 }
+			{	type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:claypot-red-raw", quantity: 1 }
 		],
-		output: { type: "item", code: "clay-red", stackSize: 4 } 
+		output: { type: "item", code: "game:clay-red", stackSize: 4 }
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:crucible-red-raw", quantity: 1	}
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 2 }
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:crock-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 2 }
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{	type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:flowerpot-red-raw",quantity: 1}
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 4 }
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:jug-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 5 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10},
+			{ type: "block", code: "game:clayplanter-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 18 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 1.25, consumeLitres: 1.25 },
+			{ type: "item", code: "game:shingle-raw-red", quantity: 3 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 1 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 20, consumeLitres: 20 },
+			{ type: "block", code: "game:storagevessel-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 35 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:wateringcan-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 10 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 15, consumeLitres: 15 },
+			{ type: "block", code: "game:toolmold-red-raw-anvil", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 28 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-axe", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 11 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-blade-falx", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 12 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-hammer", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 12 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:toolmold-red-raw-helvehammer", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 6 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-hoe", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 12 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-lamellae", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 11 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-pickaxe", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 12 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-prospectingpick", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 13 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 10, consumeLitres: 10 },
+			{ type: "block", code: "game:toolmold-red-raw-shovel", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 11 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "block", code: "game:ingotmold-red-raw", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 2 } 
+	},
+	{
+		code: "game:clay-red",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 5, consumeLitres: 5 },
+			{ type: "item", code: "game:rawbrick-red", quantity: 1 }
+		],
+		output: { type: "item", code: "game:clay-red", stackSize: 4 } 
 	}
-	/*
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "crucible-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "crock-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "flowerpot-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 4 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "jug-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 5 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "clayplanter-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 18 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 1.25, consumelitres: 1.25 },
-			{ "type": "item", "code": "shingle-raw-red", "quantity": 3 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 1 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 20, consumelitres: 20 },
-			{ "type": "block", "code": "storagevessel-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 35 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "wateringcan-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 10 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 15, consumelitres: 15 },
-			{ "type": "block", "code": "toolmold-red-raw-anvil", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 28 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-axe", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-blade-falx", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-hammer", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "toolmold-red-raw-helvehammer", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 6 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-hoe", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-lamellae", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-pickaxe", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 12 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-prospectingpick", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 13 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 10, consumelitres: 10 },
-			{ "type": "block", "code": "toolmold-red-raw-shovel", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 11 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "ingotmold-red-raw", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 2 } 
-	},
-	{
-		"code": "clay-red",
-		"sealHours": 8,
-		"ingredients": [
-			{ "type": "item", "code": "waterportion", litres: 5, consumelitres: 5 },
-			{ "type": "block", "code": "rawbrick-red", "quantity": 1 }
-		],
-		"output": { "type": "item", "code": "clay-red", "stackSize": 4 } 
-	}
-	*/
 ]
